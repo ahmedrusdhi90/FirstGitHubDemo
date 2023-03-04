@@ -1,0 +1,6 @@
+runner\Runner.class
+step_definitions\Hooks.class
+pages\SearchPage.class
+pages\LandingPage.class
+step_definitions\TestDef_MinMax_Box_Check.class
+base\Base.class
